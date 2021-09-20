@@ -1,11 +1,12 @@
-# Prayatn 
+# Prayatn `Boost your productivity!`
 <img align="center" src="https://github.com/shreyashcode/Recxa-puzzle/blob/master/icon.png?raw=true" width = 100 margin=10/>
 
+### UPD: Currently the app is under debugging phase that's why code isn't open-sourced. `Stay tuned 🤔`
+
 &nbsp;
 &nbsp;
 
-**PRAYATN** is an app that help user to be more productive through-out the day. Features like tags, reminder, activity-graph, time-pie-chart makes it 
-super convinent for user to organize stuff. One of the key feature of PRAYATN is User Interface (UI/UX). PRAYATN has a `neumorphic UI` that makes it super classy.
+**PRAYATN** is an app that helps the user to be more productive throughout the day. Features like tags, reminders, activity-graph, time-pie-chart makes it super convenient for the user to organize stuff. One of the key features of PRAYATN is User Interface (UI/UX). PRAYATN has a `neumorphic UI` that makes it super classy.
 
 &nbsp;
 &nbsp;
