@@ -13,10 +13,10 @@
 
 # Here's actual app! 😎
 
-<img align="left" src="https://github.com/shreyashcode/test/blob/main/Group%209.png"/>
-<img align="left" src="https://github.com/shreyashcode/test/blob/main/Group%208.png"/>
-<img align="left" src="https://github.com/shreyashcode/test/blob/main/Group%2012.png"/>
-<img align="left" src="https://github.com/shreyashcode/test/blob/main/Group%2013.png"/> 
+<img align="left" src="https://github.com/shreyashcode/Prayatn/blob/main/Group%2016.png"/>
+<img align="left" src="https://github.com/shreyashcode/Prayatn/blob/main/Group%2018.png"/>
+<img align="left" src="https://github.com/shreyashcode/Prayatn/blob/main/Group%2014.png"/>
+<img align="left" src="https://github.com/shreyashcode/Prayatn/blob/main/Group%2015.png"/> 
 
 &nbsp;
 <br />
