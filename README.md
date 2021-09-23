@@ -1,7 +1,13 @@
 # Prayatn `Boost your productivity!`
 <img align="center" src="https://github.com/shreyashcode/Recxa-puzzle/blob/master/icon.png?raw=true" width = 100 margin=10/>
 
-### UPD: Currently the app is under debugging phase that's why code isn't open-sourced. `Stay tuned 🤔`
+<pre>
+🔴🔴
+</pre>
+# [Link to the code 👨‍💻 !](https://github.com/shreyashcode/Prayatn_android)
+<pre>
+🔴🔴
+</pre>
 
 &nbsp;
 &nbsp;
@@ -21,7 +27,7 @@
 &nbsp;
 <br />
 <br /><br />
-# 👨‍💻 Tech stack
+# 👨‍💻 Tech used 🔴🔴
 - **Native Android**
 - **Kotlin and XML**
 - **MVVM architecture**
